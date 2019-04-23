@@ -1,0 +1,5 @@
+DROP TABLE Car_Options;
+DROP TABLE Pledged_Cars;
+DROP TABLE Car;
+DROP TABLE Event;
+DROP TABLE User;
